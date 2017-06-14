@@ -1,0 +1,19 @@
+{
+  "name": "parsing-csv",
+  "version": "1.0.0",
+  "description": "to parsing file csv ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeriKurniawan/npm-package.git"
+  },
+  "author": "deri kurniawan <derikurniawan11d88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeriKurniawan/npm-package/issues"
+  },
+  "homepage": "https://github.com/DeriKurniawan/npm-package#readme"
+}

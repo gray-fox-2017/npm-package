@@ -1,0 +1,23 @@
+{
+  "name": "hakim-factor",
+  "version": "1.0.0",
+  "description": "number factors finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakiemaul/npm-package.git"
+  },
+  "keywords": [
+    "number",
+    "factors"
+  ],
+  "author": "hakiemaul <noersedya@gmail.com> (http://github.com/hakiemaul)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakiemaul/npm-package/issues"
+  },
+  "homepage": "https://github.com/hakiemaul/npm-package#readme"
+}

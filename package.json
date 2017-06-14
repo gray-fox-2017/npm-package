@@ -1,0 +1,25 @@
+{
+  "name": "penjelas-rupiah",
+  "version": "0.0.7",
+  "description": "Mengubah angka menjadi huruf dalam Rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulfikarannur/npm-package.git"
+  },
+  "keywords": [
+    "rupiah",
+    "angka",
+    "huruf",
+    "indonesia"
+  ],
+  "author": "Zulfikar Annur Ahmad <zlfikar.aa@gmail.com> (zlfkr.id)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zulfikarannur/npm-package/issues"
+  },
+  "homepage": "https://github.com/zulfikarannur/npm-package#readme"
+}

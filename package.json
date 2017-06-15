@@ -1,0 +1,26 @@
+{
+  "name": "currency-erwinwahyura",
+  "version": "0.0.1",
+  "description": "erwarCurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwinwahyura/npm-package.git"
+  },
+  "author": "Erwin W Ramadhan <erwinwahyuramadhan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwinwahyura/npm-package/issues"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/erwinwahyura/npm-package#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}

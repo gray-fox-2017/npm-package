@@ -1,7 +1,7 @@
 {
-  "name": "npm-package",
-  "version": "0.0.0",
-  "description": "npm package",
+  "name": "currency-erwinwahyura",
+  "version": "0.0.1",
+  "description": "erwarCurrency",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
